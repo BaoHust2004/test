@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load model
-model = joblib.load('models/decision_tree_model.pkl')
+model = joblib.load('models/best_model.pkl')
 
 @app.route('/predict', methods=['POST'])
 def predict():

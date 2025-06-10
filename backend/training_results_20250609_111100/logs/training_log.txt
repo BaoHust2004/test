@@ -1,0 +1,186 @@
+[2025-06-09 11:11:00] ===== BẮT ĐẦU TIỀN XỬ LÝ DỮ LIỆU =====
+[2025-06-09 11:11:00] Đọc dữ liệu thành công: 1044 dòng và 33 cột
+[2025-06-09 11:11:00] Bắt đầu mã hóa biến phân loại...
+[2025-06-09 11:11:00] Số đặc trưng sau khi mã hóa: 42
+[2025-06-09 11:11:00] Chia tập train/test với tỉ lệ 80/20...
+[2025-06-09 11:11:00] Bắt đầu chuẩn hóa dữ liệu...
+[2025-06-09 11:11:00] Đã lưu scaler
+[2025-06-09 11:11:00] ===== HOÀN THÀNH TIỀN XỬ LÝ DỮ LIỆU =====
+[2025-06-09 11:11:00] ===== BẮT ĐẦU PHÂN TÍCH VÀ TRỰC QUAN HÓA DỮ LIỆU =====
+[2025-06-09 11:11:00] Đang vẽ biểu đồ phân phối điểm số G3...
+[2025-06-09 11:11:01] Đã lưu biểu đồ phân phối G3
+[2025-06-09 11:11:01] Đang tính toán ma trận tương quan...
+[2025-06-09 11:11:01] Đã lưu ma trận tương quan với 16 biến số
+[2025-06-09 11:11:01] Đang vẽ heatmap tương quan...
+[2025-06-09 11:11:02] Đã lưu heatmap tương quan
+[2025-06-09 11:11:02] 
+Bắt đầu phân tích 17 biến phân loại...
+[2025-06-09 11:11:02] Đang phân tích biến school...
+[2025-06-09 11:11:02] Thống kê biến school:
+[2025-06-09 11:11:02] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:02] - Giá trị phổ biến nhất: GP (772 lần)
+[2025-06-09 11:11:02] Đã lưu biểu đồ phân tích biến school
+[2025-06-09 11:11:02] Đang phân tích biến sex...
+[2025-06-09 11:11:02] Thống kê biến sex:
+[2025-06-09 11:11:02] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:02] - Giá trị phổ biến nhất: F (591 lần)
+[2025-06-09 11:11:02] Đã lưu biểu đồ phân tích biến sex
+[2025-06-09 11:11:02] Đang phân tích biến address...
+[2025-06-09 11:11:03] Thống kê biến address:
+[2025-06-09 11:11:03] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:03] - Giá trị phổ biến nhất: U (759 lần)
+[2025-06-09 11:11:03] Đã lưu biểu đồ phân tích biến address
+[2025-06-09 11:11:03] Đang phân tích biến famsize...
+[2025-06-09 11:11:03] Thống kê biến famsize:
+[2025-06-09 11:11:03] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:03] - Giá trị phổ biến nhất: GT3 (738 lần)
+[2025-06-09 11:11:03] Đã lưu biểu đồ phân tích biến famsize
+[2025-06-09 11:11:03] Đang phân tích biến Pstatus...
+[2025-06-09 11:11:03] Thống kê biến Pstatus:
+[2025-06-09 11:11:03] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:03] - Giá trị phổ biến nhất: T (923 lần)
+[2025-06-09 11:11:04] Đã lưu biểu đồ phân tích biến Pstatus
+[2025-06-09 11:11:04] Đang phân tích biến Mjob...
+[2025-06-09 11:11:04] Thống kê biến Mjob:
+[2025-06-09 11:11:04] - Số lượng giá trị unique: 5
+[2025-06-09 11:11:04] - Giá trị phổ biến nhất: other (399 lần)
+[2025-06-09 11:11:04] Đã lưu biểu đồ phân tích biến Mjob
+[2025-06-09 11:11:04] Đang phân tích biến Fjob...
+[2025-06-09 11:11:04] Thống kê biến Fjob:
+[2025-06-09 11:11:04] - Số lượng giá trị unique: 5
+[2025-06-09 11:11:04] - Giá trị phổ biến nhất: other (584 lần)
+[2025-06-09 11:11:05] Đã lưu biểu đồ phân tích biến Fjob
+[2025-06-09 11:11:05] Đang phân tích biến reason...
+[2025-06-09 11:11:05] Thống kê biến reason:
+[2025-06-09 11:11:05] - Số lượng giá trị unique: 4
+[2025-06-09 11:11:05] - Giá trị phổ biến nhất: course (430 lần)
+[2025-06-09 11:11:05] Đã lưu biểu đồ phân tích biến reason
+[2025-06-09 11:11:05] Đang phân tích biến guardian...
+[2025-06-09 11:11:05] Thống kê biến guardian:
+[2025-06-09 11:11:05] - Số lượng giá trị unique: 3
+[2025-06-09 11:11:05] - Giá trị phổ biến nhất: mother (728 lần)
+[2025-06-09 11:11:05] Đã lưu biểu đồ phân tích biến guardian
+[2025-06-09 11:11:05] Đang phân tích biến schoolsup...
+[2025-06-09 11:11:05] Thống kê biến schoolsup:
+[2025-06-09 11:11:05] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:05] - Giá trị phổ biến nhất: no (925 lần)
+[2025-06-09 11:11:06] Đã lưu biểu đồ phân tích biến schoolsup
+[2025-06-09 11:11:06] Đang phân tích biến famsup...
+[2025-06-09 11:11:06] Thống kê biến famsup:
+[2025-06-09 11:11:06] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:06] - Giá trị phổ biến nhất: yes (640 lần)
+[2025-06-09 11:11:06] Đã lưu biểu đồ phân tích biến famsup
+[2025-06-09 11:11:06] Đang phân tích biến paid...
+[2025-06-09 11:11:06] Thống kê biến paid:
+[2025-06-09 11:11:06] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:06] - Giá trị phổ biến nhất: no (824 lần)
+[2025-06-09 11:11:06] Đã lưu biểu đồ phân tích biến paid
+[2025-06-09 11:11:06] Đang phân tích biến activities...
+[2025-06-09 11:11:06] Thống kê biến activities:
+[2025-06-09 11:11:06] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:06] - Giá trị phổ biến nhất: no (528 lần)
+[2025-06-09 11:11:07] Đã lưu biểu đồ phân tích biến activities
+[2025-06-09 11:11:07] Đang phân tích biến nursery...
+[2025-06-09 11:11:07] Thống kê biến nursery:
+[2025-06-09 11:11:07] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:07] - Giá trị phổ biến nhất: yes (835 lần)
+[2025-06-09 11:11:07] Đã lưu biểu đồ phân tích biến nursery
+[2025-06-09 11:11:07] Đang phân tích biến higher...
+[2025-06-09 11:11:07] Thống kê biến higher:
+[2025-06-09 11:11:07] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:07] - Giá trị phổ biến nhất: yes (955 lần)
+[2025-06-09 11:11:07] Đã lưu biểu đồ phân tích biến higher
+[2025-06-09 11:11:07] Đang phân tích biến internet...
+[2025-06-09 11:11:07] Thống kê biến internet:
+[2025-06-09 11:11:07] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:07] - Giá trị phổ biến nhất: yes (827 lần)
+[2025-06-09 11:11:08] Đã lưu biểu đồ phân tích biến internet
+[2025-06-09 11:11:08] Đang phân tích biến romantic...
+[2025-06-09 11:11:08] Thống kê biến romantic:
+[2025-06-09 11:11:08] - Số lượng giá trị unique: 2
+[2025-06-09 11:11:08] - Giá trị phổ biến nhất: no (673 lần)
+[2025-06-09 11:11:08] Đã lưu biểu đồ phân tích biến romantic
+[2025-06-09 11:11:08] ===== HOÀN THÀNH PHÂN TÍCH VÀ TRỰC QUAN HÓA DỮ LIỆU =====
+[2025-06-09 11:11:08] ===== BẮT ĐẦU HUẤN LUYỆN MÔ HÌNH =====
+[2025-06-09 11:11:08] Kích thước tập huấn luyện: 835 mẫu, 41 đặc trưng
+[2025-06-09 11:11:08] Số lượng mô hình sẽ huấn luyện: 4
+[2025-06-09 11:11:08] 
+Bắt đầu huấn luyện mô hình Linear Regression...
+[2025-06-09 11:11:08] Tham số tìm kiếm: {'fit_intercept': [True, False], 'copy_X': [True, False], 'positive': [True, False]}
+[2025-06-09 11:11:08] Đang thực hiện Grid Search với 5-fold cross validation...
+[2025-06-09 11:11:11] Kết quả tốt nhất cho Linear Regression:
+[2025-06-09 11:11:11] - Best parameters: {'copy_X': True, 'fit_intercept': False, 'positive': False}
+[2025-06-09 11:11:11] - Best score (neg MSE): -2.4257
+[2025-06-09 11:11:11] Đã lưu mô hình tại: training_results_20250609_111100\models\linear_regression.pkl
+[2025-06-09 11:11:11] 
+Bắt đầu huấn luyện mô hình Decision Tree...
+[2025-06-09 11:11:11] Tham số tìm kiếm: {'max_depth': [None, 5, 10, 15], 'min_samples_split': [2, 5, 10], 'min_samples_leaf': [1, 2, 4]}
+[2025-06-09 11:11:11] Đang thực hiện Grid Search với 5-fold cross validation...
+[2025-06-09 11:11:12] Kết quả tốt nhất cho Decision Tree:
+[2025-06-09 11:11:12] - Best parameters: {'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 2}
+[2025-06-09 11:11:12] - Best score (neg MSE): -2.4199
+[2025-06-09 11:11:12] Đã lưu mô hình tại: training_results_20250609_111100\models\decision_tree.pkl
+[2025-06-09 11:11:12] 
+Bắt đầu huấn luyện mô hình Random Forest...
+[2025-06-09 11:11:12] Tham số tìm kiếm: {'n_estimators': [50, 100, 200], 'max_depth': [None, 10, 20], 'min_samples_split': [2, 5, 10]}
+[2025-06-09 11:11:12] Đang thực hiện Grid Search với 5-fold cross validation...
+[2025-06-09 11:11:19] Kết quả tốt nhất cho Random Forest:
+[2025-06-09 11:11:19] - Best parameters: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 200}
+[2025-06-09 11:11:19] - Best score (neg MSE): -2.0942
+[2025-06-09 11:11:19] Đã lưu mô hình tại: training_results_20250609_111100\models\random_forest.pkl
+[2025-06-09 11:11:19] 
+Bắt đầu huấn luyện mô hình XGBoost...
+[2025-06-09 11:11:19] Tham số tìm kiếm: {'n_estimators': [50, 100, 200], 'max_depth': [3, 5, 7], 'learning_rate': [0.01, 0.1, 0.2]}
+[2025-06-09 11:11:19] Đang thực hiện Grid Search với 5-fold cross validation...
+[2025-06-09 11:11:55] Kết quả tốt nhất cho XGBoost:
+[2025-06-09 11:11:55] - Best parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+[2025-06-09 11:11:55] - Best score (neg MSE): -2.0475
+[2025-06-09 11:11:55] Đã lưu mô hình tại: training_results_20250609_111100\models\xgboost.pkl
+[2025-06-09 11:11:55] 
+===== HOÀN THÀNH HUẤN LUYỆN MÔ HÌNH =====
+[2025-06-09 11:11:55] ===== BẮT ĐẦU ĐÁNH GIÁ MÔ HÌNH =====
+[2025-06-09 11:11:55] Kích thước tập kiểm tra: 209 mẫu, 41 đặc trưng
+[2025-06-09 11:11:55] Số lượng mô hình cần đánh giá: 4
+[2025-06-09 11:11:55] 
+Đang đánh giá mô hình Linear Regression...
+[2025-06-09 11:11:56] Kết quả đánh giá Linear Regression:
+[2025-06-09 11:11:56] - RMSE: 1.7897
+[2025-06-09 11:11:56] - MAE: 1.0480
+[2025-06-09 11:11:56] - R2 Score: 0.7928
+[2025-06-09 11:11:56] Đang vẽ biểu đồ dự đoán vs thực tế cho Linear Regression...
+[2025-06-09 11:11:57] Đã lưu biểu đồ tại: training_results_20250609_111100\plots\linear_regression_predictions.png
+[2025-06-09 11:11:57] Đã cập nhật mô hình tốt nhất: Linear Regression (RMSE: 1.7897)
+[2025-06-09 11:11:57] 
+Đang đánh giá mô hình Decision Tree...
+[2025-06-09 11:11:57] Kết quả đánh giá Decision Tree:
+[2025-06-09 11:11:57] - RMSE: 1.7996
+[2025-06-09 11:11:57] - MAE: 1.0128
+[2025-06-09 11:11:57] - R2 Score: 0.7905
+[2025-06-09 11:11:57] Đang vẽ biểu đồ dự đoán vs thực tế cho Decision Tree...
+[2025-06-09 11:11:57] Đã lưu biểu đồ tại: training_results_20250609_111100\plots\decision_tree_predictions.png
+[2025-06-09 11:11:57] 
+Đang đánh giá mô hình Random Forest...
+[2025-06-09 11:11:57] Kết quả đánh giá Random Forest:
+[2025-06-09 11:11:57] - RMSE: 1.6846
+[2025-06-09 11:11:57] - MAE: 0.9457
+[2025-06-09 11:11:57] - R2 Score: 0.8164
+[2025-06-09 11:11:57] Đang vẽ biểu đồ dự đoán vs thực tế cho Random Forest...
+[2025-06-09 11:11:58] Đã lưu biểu đồ tại: training_results_20250609_111100\plots\random_forest_predictions.png
+[2025-06-09 11:11:58] Đã cập nhật mô hình tốt nhất: Random Forest (RMSE: 1.6846)
+[2025-06-09 11:11:58] 
+Đang đánh giá mô hình XGBoost...
+[2025-06-09 11:11:58] Kết quả đánh giá XGBoost:
+[2025-06-09 11:11:58] - RMSE: 1.6055
+[2025-06-09 11:11:58] - MAE: 0.9029
+[2025-06-09 11:11:58] - R2 Score: 0.8333
+[2025-06-09 11:11:58] Đang vẽ biểu đồ dự đoán vs thực tế cho XGBoost...
+[2025-06-09 11:11:58] Đã lưu biểu đồ tại: training_results_20250609_111100\plots\xgboost_predictions.png
+[2025-06-09 11:11:58] Đã cập nhật mô hình tốt nhất: XGBoost (RMSE: 1.6055)
+[2025-06-09 11:11:58] Đã lưu kết quả đánh giá tại: training_results_20250609_111100\logs\evaluation_results.json
+[2025-06-09 11:11:58] Đã lưu mô hình tốt nhất (XGBoost) tại: models/best_model.pkl
+[2025-06-09 11:11:58] 
+===== HOÀN THÀNH ĐÁNH GIÁ MÔ HÌNH =====
+[2025-06-09 11:11:58] Mô hình tốt nhất: XGBoost
+[2025-06-09 11:11:58] - RMSE: 1.6055
+[2025-06-09 11:11:58] - MAE: 0.9029
+[2025-06-09 11:11:58] - R2 Score: 0.8333
